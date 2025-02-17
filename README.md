@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 💼 My profession is: Software Engineering ⚙️
-- 🇦🇺  I'm based in: Australia,Sydney,NSW
+- 📍  I'm based in: Australia,Sydney,NSW 🇦🇺
 - 🔭 I’m currently working on new project 📖
 - 🌱 I’m currently learning AI Engineering 🤖
 - 📫 How to reach me: Irvinh145@gmail.com 📩
