@@ -3,7 +3,7 @@
 ## 💫 About Me:
 <br>💼 My profession is: Software Engineering ⚙️<br>    
 📍 I'm based in: Australia,Sydney,NSW 🇦🇺<br>    
-🔭 I’m currently working on new project 📖<br>    
+🔭 I’m currently working on my thesis 📖<br>    
 🌱 I’m currently learning AI Engineering 🤖<br>    
 📫 How to reach me: Irvinh145@gmail.com 📩<br>    
 😄 Pronouns: He/Him 👦<br>    
