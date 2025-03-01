@@ -9,7 +9,7 @@
 😄 Pronouns: He/Him 👦<br>    
 ⚡ Fun fact: I can pick up 200kg barbell 💪<br>
 
-## Check Out My Latest Project:
+## 📢 Check Out My Latest Project:
 [Beyond an AI Powered Fitness Tracking App](https://github.com/Th1f/AI-Powered-Beyond-Fitness-Tracking-WebApp)
 
 ## 🌐 Socials:
