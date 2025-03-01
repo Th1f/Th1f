@@ -4,7 +4,7 @@
 <br>💼 My profession is: Software Engineering ⚙️<br>    
 📍 I'm based in: Australia,Sydney,NSW 🇦🇺<br>    
 🔭 I’m currently working on my thesis 📖<br>    
-🌱 I’m currently learning AI Engineering 🤖<br>    
+🌱 I’m currently learning AI Development 🤖<br>    
 📫 How to reach me: Irvinh145@gmail.com 📩<br>    
 😄 Pronouns: He/Him 👦<br>    
 ⚡ Fun fact: I can pick up 200kg barbell 💪<br>
