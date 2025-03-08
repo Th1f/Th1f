@@ -9,8 +9,9 @@
 😄 Pronouns: He/Him 👦<br>    
 ⚡ Fun fact: I can pick up 200kg barbell 💪<br>
 
-## 📢 Check Out My Latest Project:
-[Beyond an AI Powered Fitness Tracking App](https://github.com/Th1f/AI-Powered-Beyond-Fitness-Tracking-WebApp)
+## 📢 Check Out My Latest Projects:
+- [Beyond an AI Powered Fitness Tracking App](https://github.com/Th1f/AI-Powered-Beyond-Fitness-Tracking-WebApp)
+- [Potion Disaster a Web-based Puzzle Game](https://github.com/Th1f/Fullstack-Potion-Game)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/irvinh145) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:irvinh145@gmail.com) 
